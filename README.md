@@ -1,9 +1,9 @@
 # Applied Python HW3
 
 ## Инструкция по запуску
-- Склонировать репозиторий: ```git clone https://github.com/ropolts/applied_python_hw3.git```
-- Перейти в директорию репозитория: ```cd applied_python_hw3```
-- Запустить сервис: ```docker-compose up --build```
+1. Склонировать репозиторий: ```git clone https://github.com/ropolts/applied_python_hw3.git```
+2. Перейти в директорию репозитория: ```cd applied_python_hw3```
+3. Запустить сервис: ```docker-compose up --build```
 
 ## Реализованные функции
 1. Создание / удаление / изменение / получение информации по короткой ссылке
