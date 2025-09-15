@@ -2,7 +2,7 @@
 
 ## Инструкция по запуску
 - Склонировать репозиторий: ```git clone https://github.com/ropolts/applied_python_hw3.git```
-- Перейти в директорию репозитория: ```cd /applied_python_hw3```
+- Перейти в директорию репозитория: ```cd applied_python_hw3```
 - Запустить сервис: ```docker-compose up --build```
 
 ## Реализованные функции
@@ -11,12 +11,12 @@
 3. Создание кастомных ссылок (уникальный alias)
 4. Поиск ссылки по оригинальному URL
 
+## Демонстрация работы
+[Скринкаст](https://disk.360.yandex.ru/i/xYoEClDxRprSsg)
+
 ## API endpoints
 ![endpoints.jpg](screenshots/endpoints.jpg)
 
 ## Доступ к сервису и документация
 - http://localhost:8000
 - http://localhost:8000/docs
-
-## Демонстрация работы
-[Скринкаст](https://disk.360.yandex.ru/i/xYoEClDxRprSsg)
